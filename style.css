@@ -29,6 +29,8 @@ img{
     }
     .parent > .card{
         width: 200px;
+        align-items: center;
+        
     }
     
 }
