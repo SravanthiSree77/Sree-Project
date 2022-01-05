@@ -16,6 +16,7 @@ button{
     width: 30%;
     color: red;
     background-color: silver;
+    text-align: center;
 }
 img{
     width: 200px;
